@@ -3,7 +3,7 @@
 ### Check connection with Neo4j
 
 ```
-python neo4j_connection.py
+    python neo4j_connection.py
 ```
 
 ### Run CRUD operations
